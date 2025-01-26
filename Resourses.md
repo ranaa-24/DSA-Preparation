@@ -7,3 +7,4 @@
 
 ## Some usefull videos and studies  
 [big-O Notation](https://youtu.be/BgLTDT03QtU?si=GANowbYKKXgXLOFe)      
+[Cpp STLs](https://www.youtube.com/watch?v=2olsGf6JIkU)      
